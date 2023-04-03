@@ -1,0 +1,47 @@
+commit 1a072a0bfaebdadbc88dd0ec62b46a6928b5c191
+Author: Leomar Acosta <leomar4113@gmail.com>
+Date:   Thu Mar 30 16:51:50 2023 -0400
+
+    8
+
+commit 854871157c44884121a63afd3f2758f715e81e9e
+Author: Leomar Acosta <leomar4113@gmail.com>
+Date:   Thu Mar 30 16:48:11 2023 -0400
+
+    7 modifi
+
+commit c1401b289063cf8487c5c1970d6041e65d70a093
+Author: Leomar Acosta <leomar4113@gmail.com>
+Date:   Thu Mar 30 16:45:11 2023 -0400
+
+    6 modific
+
+commit 797f5c2042c1743584011d25f59ef27f6f03b7ce
+Author: Leomar Acosta <leomar4113@gmail.com>
+Date:   Thu Mar 30 16:37:36 2023 -0400
+
+    quinta modifi
+
+commit 23f7919276319ba02f763a3195dfdc997a23227f
+Author: Leomar Acosta <leomar4113@gmail.com>
+Date:   Thu Mar 30 16:33:24 2023 -0400
+
+    cuarta modificacion
+
+commit 760faf92d40c2aa5a92095520fdefe9f3ab68773
+Author: Leomar Acosta <leomar4113@gmail.com>
+Date:   Thu Mar 30 16:29:51 2023 -0400
+
+    tercera modificacion
+
+commit aaca8d0828d8fe5168b36d72e7989619edc4f4db
+Author: Leomar Acosta <leomar4113@gmail.com>
+Date:   Thu Mar 30 15:35:01 2023 -0400
+
+    cambios a mi esposa
+
+commit b9b40bbd112cb62192a369282de28cd2682dcb4f
+Author: Leomar Acosta <leomar4113@gmail.com>
+Date:   Thu Mar 30 15:31:29 2023 -0400
+
+    este es el primer cambio del archivo
