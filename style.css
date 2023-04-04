@@ -2,3 +2,9 @@
     font-family: 'Courier New', Courier, monospace; 
     font-weight: 700;
 }
+#footer{
+    background-color: greenyellow;
+    color: black;
+    font-weight: 400px;
+   
+}
